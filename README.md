@@ -7,13 +7,13 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ## Using
-Assets
-Fonts
-Card
-Listtile
-Circle Avatar
-SizedBox
-Divider
+Assets,
+Fonts,
+Card,
+Listtile,
+Circle Avatar,
+SizedBox,
+Divider,
 
 ### Mahmut Kaba
 [Linkedin](https://www.linkedin.com/in/mahmut-kaba-8ab997253/)
